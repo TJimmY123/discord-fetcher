@@ -1,0 +1,31 @@
+{
+  "name": "discord-fetcher",
+  "version": "1.0.3",
+  "description": "Simple & Full Discord User Info Fetcher",
+  "main": "index.js",
+  "types": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azizmjaber02/discord-fetcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/azizmjaber02/discord-fetcher/issues"
+  },
+  "keywords": [
+    "discord",
+    "fetch",
+    "betadevs",
+    "azizjaber",
+    "discord-user",
+    "discord-fetcher",
+    "api"
+  ],
+  "author": "AzizJaber",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
